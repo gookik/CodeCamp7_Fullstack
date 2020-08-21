@@ -8,44 +8,50 @@
           .grid-container {
             display: grid;
             grid-template-columns: auto auto auto;
-            grid-gap: 10px;
+            grid-gap: 5px;
             background-color: #2196F3;
-            padding: 10px;
+            padding: 5px;
           }
 
           .grid-container > div {
-            background-color: rgba(255, 255, 255, 0.8);
+            background-color: white;
             text-align: left;
-            padding: 20px 0;
-            font-size: 30px;
+            /*padding: 20px 0;*/
+            font-size: 20px;
           }
-
+          
           .head-container {
-            grid-area: 1 / 1 / 3 / 4;
+          	grid-area: 1 / 1 / 3 / 4;
+            display: flex;
+            justify-content: space-between;
           }
 
           .head-container > div {
-            display: flex;
-            background-color: red;
+            background-color: grey;
             margin: 10px;
             padding: 20px;
-            font-size: 30px;
+            font-size: 20px;
+          }
+          
+          .searchbar {
+          flex-basis: 150px;
           }
 
         </style>
     </head>
     <body>
       <div class='grid-container'>
+      
           <div class='head-container'>
             <div class='logo'>Logo</div>
             <div class='searchbar'>Search Bar</div>
             <div class='account'>Account Logo</div>
           </div>
-
-            <div class='left-container'>
+         
+          <div class='left-container'>
               <div class='leftmenu'>Left Sidebar Menu</div>
               <div class='leftmenu'>Left Sidebar Menu Footer</div>
-            </div>
+          </div>
           
           <div class='body-container'>
             <h2 class='headline'>Headlines</h2>
