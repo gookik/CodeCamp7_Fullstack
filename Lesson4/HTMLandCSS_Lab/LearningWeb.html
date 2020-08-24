@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Learning Web</title>
+      <meta charset="UTF-8">
+        <style>
+        
+        	.head {
+            	display: grid;
+                grid-template-columns: auto auto;
+                background-color: #C74444;
+                padding: 0px 0px 10px 0px;
+            }
+            
+            .head > div {
+            	background-color: yellow;
+            }
+            
+            .body-grid {
+            	display: grid;
+            }
+                        	
+            .body-flex {
+            	grid-column: 1 / span 2;
+  				grid-row: 1;
+            	display: flex;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+            
+            .body > div {
+            	/*background-color: #A6D3FF;*/
+                padding: 10px;
+            }
+            
+            .footer {
+            	background-color: #4A4A4A;
+            	display: grid;
+                
+            }
+            
+            .footer > div {
+            	display: flex;
+                color: white;
+                padding: 2%;
+                justify-content: space-between;
+            }
+            
+            .underbody {
+            	color: #FFFFFF;
+            }
+                        
+            .head1 {
+            	grid-column: 1 / span 2;
+  				grid-row: 1;
+                display: flex;
+                justify-content: space-around;
+            }
+            
+            .head2 {
+            	grid-column: 1 / span 2;
+  				grid-row: 2;
+                display: flex;
+                justify-content: space-around;
+            }
+            
+            .head1 > div {
+            	width: 100%;
+            }
+            
+            .logo {
+            	padding: 3% 3%;
+                text-align: center;
+                flex-basis: 35%;
+            }
+            
+            .link1 {
+            	padding: 3% 3%;
+                text-align: right;
+                flex-basis: 65%;
+            }
+                        
+            .link2 {
+            	padding: 3% 3%;
+                text-align: left;
+                flex-basis: 75%;
+            }
+            
+            .search {
+            	padding: 3% 10%;
+                text-align: right;
+                flex-basis: 25%;
+            }
+            
+            .body1 {
+            	/*flex-basis: 50%;*/
+                flex-grow: 7;
+			}
+            
+            .body2 {
+            	/*flex-basis: 50%;*/
+                justify-content: center;
+                flex-grow: 3;
+                padding:  1% 0% 0% 5%;
+            }
+            
+            .ad {
+            	background-color: #C9FFE5;
+                text-align: center;
+                padding: 30%;   
+            }
+            
+            .button2 {
+            	padding: 10px;
+                text-align: center;
+            }
+            
+           
+            .border {
+            	grid-column: 1 / span 2;
+  				grid-row: 2;
+                text-align: center;
+                width: 70%;               
+           	}
+            
+            .name {
+            	display: flex;
+                justify-content: space-between;
+            }
+            
+            .tag {
+            	display: flex;
+                justify-content: space-between;
+            }
+            
+            .suggest {
+            	display: flex;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+            
+            .suggest > div {
+            	padding: 6%;
+                margin: 10px;
+                background-color: #5DC99A;
+            }
+            
+            .link1 a {
+  				color: grey;
+  				padding: 0% 3% 0% 1%;
+  				text-decoration: none;
+  				text-align: center;
+            }
+            
+            .link1 a:hover {
+				background-color: #ddd;
+				color: black;
+			}
+            
+            .link2 a {
+  				color: grey;
+  				padding: 0% 10% 0% 1%;
+  				text-decoration: none;
+  				text-align: center;
+            }
+            
+            .link2 a:hover {
+				background-color: #ddd;
+				color: black;
+			}
+            
+            .quick a {
+  				color: grey;
+  				padding: 0% 2% 0% 2%;
+  				text-decoration: none;
+  				text-align: center;
+            }
+            
+            .quick a:hover {
+				background-color: #ddd;
+				color: black;
+			}
+            
+            .footer1 a {
+  				color: white;
+  				padding: 0% 0% 0% 0%;
+  				text-decoration: none;
+  				text-align: center;
+            }
+            
+            .footer1 a:hover {
+				background-color: #ddd;
+				color: black;
+			}
+            
+        </style>
+    </head>
+    <body>
+    	<div class='head'>
+    		<div class='head1'>
+            	<div class='logo'>Logo</div>
+                <div class='link1'>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<input type="submit" value="Subscribe">
+                    <input type="submit" value="Sign In">
+				</div> 
+			</div>
+            <div class='head2'>
+            	<div class='link2'>
+            		<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                	<a href='#'>link</a>
+                </div>
+                <div class='search'>Search Bar</div>
+           	</div>
+        </div>
+		
+		<div class='body'>
+            <div class='breadcrumbs'>
+            <br>
+            	<a href='#'>link</a>
+                >
+               	<a href='#'>link</a>
+            </div>
+            
+            <div class='topic'>
+            	<h1>Name Course</h1>
+            </div>
+            
+            <div class='body-grid'>
+            
+            	<div class='body-flex'>
+               
+            		<div class='body1'>
+                    <hr>
+           				<div class='name'>
+            				<div class='by'>by <a href='#'>creator</a> date</div>
+                        	<div class='time'>Lessons: xx   Length: yy hours</div>
+            			</div>
+                        <hr>
+            			<div class='tag'>
+            				<input type="submit" value="Tag">
+                            <a href='#'>Shared link</a>
+            			</div>
+						<hr>
+                        <br>
+            			<div class='video' style='text-align:center'>
+            				<video width="100%" height="80%" autoplay style='background-color: grey'>
+  								<source src="#" type="#">
+  								<source src="#" type="#">
+							</video>
+                            <p> Clip Video </p>
+           				</div>
+            			<br>
+		    			<div class='detail'style='text-align:center; background-color: #EFDECD; padding: 30%'>
+            				Detail Course Box
+            			</div>
+                	</div>
+            
+            		<div class='body2'>
+            			<div class='ad'>
+                			Ad box
+                		</div>
+                		<div class='button2'>
+							<input type="submit" value="Submit File">
+						</div>
+                	</div>
+            	</div>
+            	
+                <div class='border'>
+                <hr>
+            	<div class='profile' style='padding: 10%'>
+                	Profile
+            	</div>
+                <hr>
+                </div>
+                
+            </div>
+            
+			<div class='underbody' style='background-color: #707070'>
+				<div class='suggest'>
+					<div class='box'>Suggested Course 1</div>
+					<div class='box'>Suggested Course 2</div>
+					<div class='box'>Suggested Course 3</div>
+                    <div class='box'>Suggested Course 4</div>
+				</div>
+                <br>
+                <hr>
+                <br>
+				<div class='quick'>
+					<a href='#' style='color: white'>QUICK LINKS</a>
+				</div>
+                <br>
+            </div>
+		</div>
+            
+		<div class='footer'>
+            <div class='footer1' style='padding: 5%'>
+            	<a href='#'>Footer link 1</a>
+                <a href='#'>Footer link 2</a>
+            	<a href='#'>Footer link 3</a>
+                <div class='footlogo'>Footer Logo</div>
+            </div>
+            <span style='padding: 0% 2% 0% 2%; background-color: #4A4A4A'><hr></span>
+            <div class='footer2'style='padding: 5%'>
+            	<div class='footer'>Footer Information</div>
+                <div class='social'>Social Medias</div>
+            </div>
+    	</div>
+		
+    </body>
+</html>
