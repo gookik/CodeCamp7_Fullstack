@@ -1,15 +1,113 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Profile</title>
-        <style>
-            body {background-color: black;}
-        </style>
-    </head>
-<body style="color:white;">
+<html lang="en">
+<head>
+<title>My Profile</title>
+<meta charset="utf-8">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<style>
+* {
+  box-sizing: border-box;
+}
 
-    <h1 style=>This is a heading</h1>
-    <p>This is a paragraph.</p>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('https://image.freepik.com/free-photo/gear-abstract-minimal-pink-background-3d-rendering_34008-125.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+/* Style the header */
+header {
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+pic {
+  float: left;
+  width: 30%;
+  height: 100%;
+  padding: 20px 0px 70px 70px;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  height: 100%;
+  color: white;
+  text-shadow: 2px 3px 3px #AF002A;
+}
+
+article h1 {
+  font-size: 150%;
+}
+
+article p {
+  font-size: 100%;
+  text-align: left;
+  padding: 10px 20px;
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  padding: 10px;
+  text-align: center;
+  color: #FF6600;
+  font-size: 10px;
+}
+
+a:link, a:visited {
+  background-color: #FF9696;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 100px;
+  border-style: dotted;
+  border-width: 2px;
+  margin: 0% 0% 0% 10%;
+}
+
+a:hover, a:active {
+  background-color: #A10027;
+}
+
+</style>
+</head>
+<body>
+
+<header>
+<a href="http://127.0.0.1:5500/Main-CodeCamp7_Fullstack/Homework_HTML/index.html" target="_blank">Home</a>
+<a href="http://127.0.0.1:5500/Main-CodeCamp7_Fullstack/Homework_HTML/profile.html" target="_blank">My Profile</a>
+<a href="#" target="_blank">Friends</a>
+</header>
+
+<section>
+  <pic>
+      <img src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.0-9/110189175_10224218862726138_1920017974824340219_n.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEVKpUCAClKBwAL8uQPxKYAO-qEY1aEbUo76oRjVoRtSppoUOSpsTe23AzacBK7aOc&_nc_ohc=651ORBvRz58AX_mq4Dm&_nc_ht=scontent.fcnx3-1.fna&oh=999327a5d85aa8ff3dbf2190814e13cf&oe=5FBE21CB" alt="MyProfile" width="100%" height="100%">
+  </pic>
+  
+  <article>
+    <h1>My Profile</h1>
+    <p>Name</p>
+  </article>
+</section>
+
+<footer>
+  <p><b>My website for HTML Coding Tutorial</b></p>
+</footer>
 
 </body>
 </html>
