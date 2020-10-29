@@ -14,20 +14,51 @@
     </head>
     <body>
 		<section>
+        <form action="/action_page.php">
+  			<label for="city1">Flying from</label><br>
+  				<select id="city1" name="city1">
+   			 		<option value="chiangmai">Chiang Mai</option>
+    				<option value="bangkok">Bangkok</option>
+    				<option value="chonburi">Chon Buri</option>
+    				<option value="phuket">Phuket</option>
+  				</select>
+		</form>
+        <form action="/action_page.php">
+  			<label for="city2">To</label><br>
+  				<select id="city2" name="city2">
+                	<option value="bangkok">Bangkok</option>
+    				<option value="chonburi">Chon Buri</option>
+    				<option value="phuket">Phuket</option>
+                    <option value="chiangmai">Chiang Mai</option>
+  				</select>
+		</form><br><br>
+        
         <form id='date' action="/action_page.php">
             <label for="depart">Departing</label><br>
-            <input type="date" id="depart" name="depart"><br><br>
-          
+            <input type="date" id="depart" name="depart"><br>         
             <label for="return">Returning</label><br>
             <input type="date" id="return" name="return"><br><br>
         </form>
 
         <form id='adult' method='post'>
-            Adult
-            <input type='number' id='num' name="num" min="1" max="10" placeholder="5">
+            Adult<br>
+            <input type='number' id='num' name="num" placeholder="1">
         </form>
-
-        <input type="submit" value="Send">
+        <form id='child' method='post'>
+            Child<br>
+            <input type='number' id='num' name="num" placeholder="0">
+        </form>
+        <form id='infant' method='post'>
+            Infant<br>
+            <input type='number' id='num' name="num" placeholder="0">
+        </form>
+        <form id='currency' method='post'>
+            Currency<br>
+            <input type='number' id='num' name="num" placeholder="PKR">
+        </form>
+        
 	</section>
+    <br>
+    <input type="submit" value="Send">
     </body>
 </html>
