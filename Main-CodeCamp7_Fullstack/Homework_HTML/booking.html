@@ -6,24 +6,20 @@
         <style>
             #adult { 
                 width: 30px;
-                float: left;
+                padding: 5% 0%;
                 margin: 0; 
-            }
-
-            send { 
-                width: auto; 
             }
 
         </style>
     </head>
     <body>
-
+		<section>
         <form id='date' action="/action_page.php">
-            <label for="datemax">Enter a date before 1980-01-01:</label>
-            <input type="date" id="datemax" name="datemax" max="1979-12-31"><br><br>
+            <label for="depart">Departing</label><br>
+            <input type="date" id="depart" name="depart"><br><br>
           
-            <label for="datemin">Enter a date after 2000-01-01:</label>
-            <input type="date" id="datemin" name="datemin" min="2000-01-02"><br><br>
+            <label for="return">Returning</label><br>
+            <input type="date" id="return" name="return"><br><br>
         </form>
 
         <form id='adult' method='post'>
@@ -31,7 +27,7 @@
             <input type='number' id='num' name="num" min="1" max="10" placeholder="5">
         </form>
 
-        <input class='send' type="submit" value="Send">
-
+        <input type="submit" value="Send">
+	</section>
     </body>
 </html>
