@@ -4,27 +4,48 @@
         <title>Booking</title>
         <meta charset="utf-8">
         <style>
-            #adult { 
-                width: 30px;
-                padding: 5% 0%;
-                margin: 0; 
+            #city1 { 
+            	float: left;
+                width: 30%;
+                padding: 0% 0%;
+                margin: 0% 3%;
             }
-
+            
+              #city2 {
+              	float: left;
+              	width: 30%;
+                padding: 0% 0%;
+                margin: 0% 3%;
+            }
+            
+            #depart { 
+            	float: left;
+                width: 30%;
+                padding: 0% 0%;
+                margin: 0% 3%;
+            }
+            
+            #return {
+              	float: left;
+              	width: 30%;
+                padding: 0% 0%;
+                margin: 0% 3%;
+            }
+            
         </style>
     </head>
     <body>
 		<section>
         <form action="/action_page.php">
-  			<label for="city1">Flying from</label><br>
+  			<label for="city1" id="city1">Flying from</label>
+            <label for="city2" id="city2">To</label><br>
   				<select id="city1" name="city1">
    			 		<option value="chiangmai">Chiang Mai</option>
     				<option value="bangkok">Bangkok</option>
     				<option value="chonburi">Chon Buri</option>
     				<option value="phuket">Phuket</option>
   				</select>
-		</form>
-        <form action="/action_page.php">
-  			<label for="city2">To</label><br>
+	
   				<select id="city2" name="city2">
                 	<option value="bangkok">Bangkok</option>
     				<option value="chonburi">Chon Buri</option>
@@ -34,27 +55,21 @@
 		</form><br><br>
         
         <form id='date' action="/action_page.php">
-            <label for="depart">Departing</label><br>
-            <input type="date" id="depart" name="depart"><br>         
-            <label for="return">Returning</label><br>
-            <input type="date" id="return" name="return"><br><br>
-        </form>
+            <label for="depart" id="depart">Departing</label>
+            <label for="return" id="return">Returning</label><br>
+            <input type="date" id="depart" name="depart">
+            <input type="date" id="return" name="return"><br>
+        </form><br><br>
 
-        <form id='adult' method='post'>
-            Adult<br>
-            <input type='number' id='num' name="num" placeholder="1">
-        </form>
-        <form id='child' method='post'>
-            Child<br>
-            <input type='number' id='num' name="num" placeholder="0">
-        </form>
-        <form id='infant' method='post'>
-            Infant<br>
-            <input type='number' id='num' name="num" placeholder="0">
-        </form>
-        <form id='currency' method='post'>
-            Currency<br>
-            <input type='number' id='num' name="num" placeholder="PKR">
+        <form action="/action_page.php">
+            <label for="adult" id="adult">Adult</label>
+            <label for="child" id="child">Child</label>
+            <label for="infant" id="infant">Infant</label>
+            <label for="currency" id="currency">Currency</label><br>
+            <input type="number" id="adult" name="adult" step="1" value="1">
+            <input type="number" id="child" name="child" step="1" value="0">
+            <input type='number' id="infant" name="infant" step="1" value="0">
+            <input type='number' id="currency" name="currency" placeholder="THB">
         </form>
         
 	</section>
