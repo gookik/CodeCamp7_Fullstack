@@ -4,7 +4,7 @@
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
 - มี link เข้าสู่หน้า profile และ friend 
 
-> Answer Item 1 [HTML](index.html)
+> **Answer Item 1** [HTML](index.html)
 
 ---
 
