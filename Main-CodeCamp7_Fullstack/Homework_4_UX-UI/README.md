@@ -31,11 +31,11 @@
 
 ---
 
-5. ทำทุกอย่างใหม่ให้เป็น Figma (อ่านเพิ่มเติมที่ Link )
+5. ทำทุกอย่างใหม่ให้เป็น Figma (อ่านเพิ่มเติมที่ [Link](https://docs.google.com/presentation/d/1JsxCEdP-y_RJddB-jF4CYmNR0AQPo6QPFQC9Zp-c8tw/edit#slide=id.g78fbe1e7b1_0_6))
 
 ---
 
-6. หา Mobile App ที่จะเป็น Inspiration ด้าน design ให้เราได้ อย่างน้อย 3 App (อ่านเพิ่มเติมที่ Link )
+6. หา Mobile App ที่จะเป็น Inspiration ด้าน design ให้เราได้ อย่างน้อย 3 App (อ่านเพิ่มเติมที่ [Link](https://docs.google.com/presentation/d/1JsxCEdP-y_RJddB-jF4CYmNR0AQPo6QPFQC9Zp-c8tw/edit#slide=id.g5f5019f47d_0_167))
 -   Awwwards
 -   Dribbble
 -   Behance
@@ -43,11 +43,11 @@
 -   Pinterest
 
 
-    พยายามดูทุกหน้า ว่าเค้ามี Function อะไรบ้าง และชอบ สีหรือ DEsign ตรงไหน ลองเปรียบเทียบดูว่าจะเอามาเพิ่มลดกับของเราหรือไม่ ไป Capture มาแปะ ใน Slides
+    พยายามดูทุกหน้าว่าเค้ามี Function อะไรบ้างและชอบสีหรือ Design ตรงไหน ลองเปรียบเทียบดูว่าจะเอามาเพิ่มลดกับของเราหรือไม่ ไป Capture มาแปะใน Slides
 
 ---
 
-7. ทำ Moodboard ใส่ Figma ใส่เป็นอีก File (อ่านเพิ่มเติมที่ Link )
+7. ทำ Moodboard ใส่ Figma ใส่เป็นอีก File (อ่านเพิ่มเติมที่ [Link](https://docs.google.com/presentation/d/1JsxCEdP-y_RJddB-jF4CYmNR0AQPo6QPFQC9Zp-c8tw/edit#slide=id.g5f7b7ee4ba_0_19))
     หัวข้อครอบคลุม
     -   color palette
     -   fonts (1 to 3 per mood board)
