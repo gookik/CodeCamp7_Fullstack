@@ -1,6 +1,6 @@
 # Homework 2.CSS
 
-1. slide 5 (review CSS) ให้สร้าง review.html แสดงเป็นตาราง 
+1.  slide 5 (review CSS) ให้สร้าง review.html แสดงเป็นตาราง 
 
     1.1 CSS syntax ประกอบด้วยอะไรบ้าง 
 
@@ -12,7 +12,7 @@
 
 ---
 
-2. Slide 7 (review CSS)
+2.  Slide 7 (review CSS)
 
     2.1 property และ value คืออะไรแตกต่างกันอย่างไร
     
@@ -22,13 +22,13 @@
 
 ---
 
-3. slide 10 ให้สร้างตารางตามรูปด้านล่าง
+3.  slide 10 ให้สร้างตารางตามรูปด้านล่าง
 
 ![slide10](slide10.jpg)
 
 ---
 
-4. slide 15 (review CSS)
+4.  slide 15 (review CSS)
         
         4.1 value ใน display property มีอะไรบ้าง
         
@@ -44,13 +44,14 @@
 
 ---
 
-5. slide 17 ให้ทำตามหน้าเว็นนี้
+5.  slide 17 ให้ทำตามหน้าเว็นนี้
 
 link
 
 ---
 
-6. slide 34 media query ให้ทำตาม โจทย์
+6.  slide 34 media query ให้ทำตาม โจทย์
+
 6.1 ให้ตั้งค่า media query 3 ขนาดหน้าจอ
 6.2 ในหน้าจอแบ่งเป็น 3 ส่วน
 6.2.1 มีรูปภาพใหญ่กึ่งกลางจอ
@@ -59,13 +60,13 @@ link
 
 ---
 
-7. slide 35 ให้ทำหน้า responsive page ตามตัวอย่างเว็บนี้
+7.  slide 35 ให้ทำหน้า responsive page ตามตัวอย่างเว็บนี้
 
 link
 
 ---
 
-8. slide 48 animation CSS
+8.  slide 48 animation CSS
 ลองกำหนด @keyframes แบบ from to 
 ลองกำหนด @keyframes แบบ %
 ลองกำหนด @keyframes แบบ from to 
@@ -78,7 +79,7 @@ link
 
 ---
 
-9. slide 52 animation CSS 
+9.  slide 52 animation CSS 
 ให้สร้าง animation ที่มีการใช้ delay และ direction กำหนด direction ทั้งสามแบบเพื่อเปรียบเทียบ
 9.1 ให้การกำหนดการเคลื่อนจำนวน 5 ครั้ง
 9.2 ให้กำหนด keyframes เป็น 5 ช่วง
