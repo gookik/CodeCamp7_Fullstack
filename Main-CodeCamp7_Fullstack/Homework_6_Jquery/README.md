@@ -1,4 +1,4 @@
-# Homework 6.Jquery
+# Homework 6.JQuery
 
 1. ทำ Post คล้ายแบบ facebook ด้วย jQuery
     -   แบบฟอร์มสร้าง post แล้วไปเพิ่มที่ feed ด้านล่าง
