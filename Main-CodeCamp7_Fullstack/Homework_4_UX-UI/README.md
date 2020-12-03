@@ -20,7 +20,7 @@
 ---
 
 3. คิดทำ Startup อะไรสักอย่าง (อ่านเพิ่มเติมได้ที่ [Link](https://docs.google.com/presentation/d/1jwq7qrtbUAVMZe0gA4q7CvhU8XsdGIQtniA_dEoPe7g/edit#slide=id.g793c46217a_0_3)) Optional !!!
--   ขั้นตอน 
+    ขั้นตอน 
     -   Silence Brain Storm - 3 นาที ให้ได้ไอเดียมากที่สุด
     -   เลือก 1 idea ที่จะนำมาทำกันใน 2 วันนี้
 
@@ -50,9 +50,9 @@
 7. ทำ Moodboard ใส่ Figma ใส่เป็นอีก File (อ่านเพิ่มเติมที่ [Link](https://docs.google.com/presentation/d/1JsxCEdP-y_RJddB-jF4CYmNR0AQPo6QPFQC9Zp-c8tw/edit#slide=id.g5f7b7ee4ba_0_19))
     
     หัวข้อครอบคลุม
--   color palette
--   fonts (1 to 3 per mood board)
--   photography/illustration style
--   iconography (if needed)
--   navigation style
--   spatial awareness (or, white space usage)
+    -   color palette
+    -   fonts (1 to 3 per mood board)
+    -   photography/illustration style
+    -   iconography (if needed)
+    -   navigation style
+    -   spatial awareness (or, white space usage)
