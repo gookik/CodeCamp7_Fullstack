@@ -46,7 +46,7 @@
 
 5.  slide 17 ให้ทำตามหน้าเว็นนี้
 
-link
+[Slide 17] (https://www.nike.com/th/men?cp=62130418954_search_%7Cth%7CCore%2BBrand%2B-%2BGN%2B-%2BPure%2B-%2BXCategory%2B-%2BNike%2BThailand%2B-%2BTM%2B-%2BGeneral%2B-%2BMens%2BLP%2B-%2BEN_TH%2B-%2BExact%7CGOOGLE%7Cnike&gclid=EAIaIQobChMIj73I0p6-5wIVzBErCh1nGgUNEAAYASAAEgKYlPD_BwE&gclsrc=aw.ds)
 
 ---
 
@@ -59,7 +59,7 @@ link
     - มีรูปภาพใหญ่กึ่งกลางจอ
 
     - ให้แบ่งหน้าจอเป็น 1, 2 หรือ 3 คอลัมน์โดยแต่ละคอลัมน์ต้องมีหัวข้อและมีเนื้อหา
-    
+
     - มีข้อความที่เป็นหัวข้อและเนื้อหาอยู่ตรงกลางจอ
 
 ---
@@ -71,32 +71,52 @@ link
 ---
 
 8.  slide 48 animation CSS
-ลองกำหนด @keyframes แบบ from to 
-ลองกำหนด @keyframes แบบ %
-ลองกำหนด @keyframes แบบ from to 
-8.1 color 
-8.2 width
-8.3 border
-8.4 background-color
-8.5 position-relative
-8.6 show and hide
+
+    - ลองกำหนด @keyframes แบบ from to
+
+    - ลองกำหนด @keyframes แบบ %
+
+    - ลองกำหนด @keyframes แบบ from to 
+
+    8.1 color
+
+    8.2 width
+    
+    8.3 border
+    
+    8.4 background-color
+    
+    8.5 position-relative
+    
+    8.6 show and hide
 
 ---
 
 9.  slide 52 animation CSS 
-ให้สร้าง animation ที่มีการใช้ delay และ direction กำหนด direction ทั้งสามแบบเพื่อเปรียบเทียบ
-9.1 ให้การกำหนดการเคลื่อนจำนวน 5 ครั้ง
-9.2 ให้กำหนด keyframes เป็น 5 ช่วง
+
+    -   ให้สร้าง animation ที่มีการใช้ delay และ direction
+
+    -   กำหนด direction ทั้งสามแบบเพื่อเปรียบเทียบ
+
+    9.1 ให้การกำหนดการเคลื่อนจำนวน 5 ครั้ง
+
+    9.2 ให้กำหนด keyframes เป็น 5 ช่วง
 
 ---
 
 10. slide 57 animation CSS
-นำ animation ทั้งมารวมกันด้วย shorthand
-ใช้ keyframes เป็น % อย่างน้อย 5 ช่วง
-ให้มีอย่างน้อย 1 animation-iteration-count เป็น infinite
-10.1 ให้ทำ animation เปลี่ยนสี
-10.2 ให้ทำ animation show, hide
-10.3 ให้ทำ animation เคลื่อนที่
+
+    - นำ animation ทั้งมารวมกันด้วย shorthand
+
+    - ใช้ keyframes เป็น % อย่างน้อย 5 ช่วง
+
+    - ให้มีอย่างน้อย 1 animation-iteration-count เป็น infinite
+
+    10.1 ให้ทำ animation เปลี่ยนสี
+
+    10.2 ให้ทำ animation show, hide
+
+    10.3 ให้ทำ animation เคลื่อนที่
 
 ---
 
