@@ -46,7 +46,7 @@
 
 5.  slide 17 ให้ทำตามหน้าเว็นนี้
 
-[Link to Nike website] (https://www.nike.com/th/men?cp=62130418954_search_%7Cth%7CCore%2BBrand%2B-%2BGN%2B-%2BPure%2B-%2BXCategory%2B-%2BNike%2BThailand%2B-%2BTM%2B-%2BGeneral%2B-%2BMens%2BLP%2B-%2BEN_TH%2B-%2BExact%7CGOOGLE%7Cnike&gclid=EAIaIQobChMIj73I0p6-5wIVzBErCh1nGgUNEAAYASAAEgKYlPD_BwE&gclsrc=aw.ds)
+[Link to Item 5 example - Nike website](https://www.nike.com/th/men?cp=62130418954_search_%7Cth%7CCore%2BBrand%2B-%2BGN%2B-%2BPure%2B-%2BXCategory%2B-%2BNike%2BThailand%2B-%2BTM%2B-%2BGeneral%2B-%2BMens%2BLP%2B-%2BEN_TH%2B-%2BExact%7CGOOGLE%7Cnike&gclid=EAIaIQobChMIj73I0p6-5wIVzBErCh1nGgUNEAAYASAAEgKYlPD_BwE&gclsrc=aw.ds)
 
 ---
 
@@ -66,7 +66,7 @@
 
 7.  slide 35 ให้ทำหน้า responsive page ตามตัวอย่างเว็บนี้
 
-link
+[Link to Item 7 example - Pimclick website](https://www.pimclick.com/co-digital-agency-bangntactkok/)
 
 ---
 
@@ -122,6 +122,6 @@ link
 
 11. slide 35 ทำ Responsive page เป็น bootstrap
 
-[Link to Pimclick website](https://www.pimclick.com/contact-digital-agency-bangkok/)
+[Link to Item 11 example - Pimclick website](https://www.pimclick.com/contact-digital-agency-bangkok/)
 
 
