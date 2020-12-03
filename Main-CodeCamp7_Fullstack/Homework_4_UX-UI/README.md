@@ -11,11 +11,11 @@
 ---
 
 2. เล่าเรื่องอะไรก็ได้เกี่ยวกับตัวเอง 3 ข้อ โดย 2 ข้อเป็นเรื่องจริง อีก 1 ข้อ เป็นเรื่องโกหก เช่น
-    -   ผมเรียน ม. ปลายได้เกรด 3.98 
-    -   ผมสอบเข้ามหาลัยได้ที่ 2 ของประเทศ คณะวิศวะ
-    -   ผมมีสาวๆ มาชอบตลอด ม. 4 - ม. 6
-    -   คนในทีมคนอื่นๆ ให้จับผิดว่าเรื่องไหนเรื่องโกหก
-    -   ใครที่ไม่ถูกจับผิดเลย ได้รับรางวัล
+-   ผมเรียน ม. ปลายได้เกรด 3.98 
+-   ผมสอบเข้ามหาลัยได้ที่ 2 ของประเทศ คณะวิศวะ
+-   ผมมีสาวๆ มาชอบตลอด ม. 4 - ม. 6
+-   คนในทีมคนอื่นๆ ให้จับผิดว่าเรื่องไหนเรื่องโกหก
+-   ใครที่ไม่ถูกจับผิดเลย ได้รับรางวัล
 
 ---
 
@@ -48,10 +48,11 @@
 ---
 
 7. ทำ Moodboard ใส่ Figma ใส่เป็นอีก File (อ่านเพิ่มเติมที่ [Link](https://docs.google.com/presentation/d/1JsxCEdP-y_RJddB-jF4CYmNR0AQPo6QPFQC9Zp-c8tw/edit#slide=id.g5f7b7ee4ba_0_19))
-    หัวข้อครอบคลุม
-    -   color palette
-    -   fonts (1 to 3 per mood board)
-    -   photography/illustration style
-    -   iconography (if needed)
-    -   navigation style
-    -   spatial awareness (or, white space usage)
+    
+หัวข้อครอบคลุม
+-   color palette
+-   fonts (1 to 3 per mood board)
+-   photography/illustration style
+-   iconography (if needed)
+-   navigation style
+-   spatial awareness (or, white space usage)
