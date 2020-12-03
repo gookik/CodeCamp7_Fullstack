@@ -20,6 +20,7 @@
 ---
 
 3. คิดทำ Startup อะไรสักอย่าง (อ่านเพิ่มเติมได้ที่ [Link](https://docs.google.com/presentation/d/1jwq7qrtbUAVMZe0gA4q7CvhU8XsdGIQtniA_dEoPe7g/edit#slide=id.g793c46217a_0_3)) Optional !!!
+    
     ขั้นตอน 
     -   Silence Brain Storm - 3 นาที ให้ได้ไอเดียมากที่สุด
     -   เลือก 1 idea ที่จะนำมาทำกันใน 2 วันนี้
