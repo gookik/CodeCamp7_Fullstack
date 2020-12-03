@@ -95,9 +95,11 @@
 -   ลอง สร้างไฟล์ .html, .css, .js
 -   push repo
 
+
 -   ignore ไฟล์ .html
 -   git rm --cached file_name
 -   push repo
+
 
 -   edit ignore ไฟล์ .css
 -   push repo
