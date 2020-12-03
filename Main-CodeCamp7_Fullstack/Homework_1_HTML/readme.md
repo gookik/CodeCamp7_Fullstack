@@ -4,7 +4,7 @@
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
 - มี link เข้าสู่หน้า profile และ friend 
 
-**Answer Item 1** [HTML](index.html)
+**Answer Item 1** [Index](index.html)
 
 ---
 
@@ -13,6 +13,8 @@
 - ชื่อ-นามสกุล,​ ชื่อเล่น, ชื่อกลุ่ม,​ ภูมิลำเนา, 
 - ความถนัด, งานอดิเรกที่ชอบ (ให้มีภาพประกอบด้วย)
 - มี link ไปยัง 2 หน้าที่เหลือ (index.html + friends.html)
+
+**Answer Item 2** [Profile](profile.html)
 
 ---
 
