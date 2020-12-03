@@ -12,5 +12,4 @@
 
 ![image](jquery1.png)
 
-
 ![image](jquery2.png)
