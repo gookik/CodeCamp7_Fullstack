@@ -44,5 +44,5 @@
 
 - ใช้ web browser บน smartphone เข้าไปที่  url <ชื่อ user>.github.io/phonebook.html
 
-![phonebook](phonebook.jpg =50x150)
+![phonebook](phonebook.jpg)
 
