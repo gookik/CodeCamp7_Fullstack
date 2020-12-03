@@ -7,7 +7,9 @@
         -   ทำการเชื่อม github กับ computer เรา
         -   สร้างไฟล์ Readme.md
 
-slide 34 markdown
+---
+
+2. slide 34 markdown
 ให้ลองเขียน markdown file
 สร้าง README.md
 ให้ใส่รายละเอียด reprository หรือ ข้อมูลพื้นฐานต่างๆ
@@ -17,7 +19,10 @@ slide 34 markdown
 สร้าง ตัวหนา ตัวเอียง
 สร้าง <hr>
 สร้าง blockquotes
-slide 43 git flow 
+
+---
+
+3. slide 43 git flow 
 ให้ลองเขียน สร้างไฟล์ .txt
 พิมพ์ข้อความอะไรก็ได้
 save และ ทำการ add file
@@ -26,7 +31,9 @@ save และ ทำการ add file
 ลองลบไฟล์ .txt ออก
 ลอง git restore จาก repo มาที่เครื่องเรา
 
-slide 50 git branch
+---
+
+4. slide 50 git branch
 สร้าง branch  ใหม่ด้วย
 git branch
 checkout ไป branch ใหม่
@@ -42,9 +49,9 @@ git branch -d branch_name
 สลับมา master
 กูการเปลี่ยนแปลง
 
+---
 
-
-slide 56 git merge
+5. slide 56 git merge
 กรณีมี conflict
 แก้ไข file .txt ใน master
 push ขึ้น repo
@@ -66,7 +73,9 @@ push ขึ้น repo
 ทำการ merge เข้ากับ master 
 อีกรอบ
 
-slide 65 git rebase
+---
+
+6. slide 65 git rebase
 กรณีมี conflict 
 สร้าง branch ใหม่
 แก้ไข file .txt ใน master
@@ -83,7 +92,9 @@ push ขึ้น repo
 ทำการ rebase เข้ากับ master 
 อีกรอบ
 
-slide 69 git ignore
+---
+
+7. slide 69 git ignore
 ลอง สร้างไฟล์ .html, .css, .js
 push repo
 
