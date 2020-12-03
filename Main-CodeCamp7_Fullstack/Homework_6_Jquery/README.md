@@ -7,6 +7,7 @@
 	-   มีกด like ได้ในแต่ละโพสต์ (ที่อยู่ใน feed)
 
 	*ส่งใน github.io ของตัวเอง
+    
 -   ใส่ในโฟลเดอร์ชื่อ jquery-hw 
 -   [ชื่อ].github.io/jquery-hw
 
