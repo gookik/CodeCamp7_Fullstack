@@ -41,6 +41,8 @@
 -   Behance
 -   Designspiration
 -   Pinterest
+
+
     พยายามดูทุกหน้า ว่าเค้ามี Function อะไรบ้าง และชอบ สีหรือ DEsign ตรงไหน ลองเปรียบเทียบดูว่าจะเอามาเพิ่มลดกับของเราหรือไม่ ไป Capture มาแปะ ใน Slides
 
 ---
