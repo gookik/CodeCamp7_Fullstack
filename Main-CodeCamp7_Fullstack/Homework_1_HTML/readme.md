@@ -4,7 +4,7 @@
     - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
     - มี link เข้าสู่หน้า profile และ friend 
 
-**Answer Item 1** [Index](index.html)
+**Answer Item 1** - [Index](index.html)
 
 ---
 
@@ -14,7 +14,7 @@
     - ความถนัด, งานอดิเรกที่ชอบ (ให้มีภาพประกอบด้วย)
     - มี link ไปยัง 2 หน้าที่เหลือ (index.html + friends.html)
 
-**Answer Item 2** [Profile](profile.html)
+**Answer Item 2** - [Profile](profile.html)
 
 ---
 
@@ -22,13 +22,13 @@
     - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io) 
     - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 
-**Answer Item 3** [Friends](friends.html)
+**Answer Item 3** - [Friends](friends.html)
 
 ---
 
 4.  เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
 
-**Done**
+**Answer Item 4** - Done
 
 ---
 
@@ -36,7 +36,7 @@
 
 ![booking](booking.jpg)
 
-**Answer Item 5** [Booking](booking.html)
+**Answer Item 5** - [Booking](booking.html)
 
 ---
 
