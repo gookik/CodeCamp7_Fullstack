@@ -1,4 +1,4 @@
-# Pre-CodeCamp Fullstack JavaScript
+# Pre-CodeCamp #7 Fullstack JavaScript
 
 1. Slides Pre-Camp - [Link](https://drive.google.com/drive/u/0/folders/1u1_egq8hHetUK0eaLPtByOIOwOe8UltC)
 
