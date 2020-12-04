@@ -4,16 +4,26 @@
         <title>Phonebook</title>
         <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
-            @media only screen and (max-width:620px) {
-                /* For mobile phones: */
+           	@media only screen and (max-width:620px) {
+                /*For mobile phones:*/
                 .menu, .main, .right {
                     width:100%;
                 }
             }
+            
+            table, th, td {
+  				border: 1px dashed black;
+  				border-collapse: collapse;
+			}
+
+			th, td {
+ 				padding: 5px;
+  				text-align: left;
+			}
     	</style>
     </head>
     <body>
-		<table style="width: 70%;" border="2" cellpadding="5">
+		<table style='width:100%'>
 			<tbody>
 				<tr>
 					<td>&nbsp;</td>
