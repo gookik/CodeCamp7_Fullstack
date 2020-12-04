@@ -19,7 +19,7 @@
 ---
 
 3.  สร้าง friends.html เพื่อแสดงรายชื่อเพื่อนใน codecamp#5 ทั้งหมด
-    - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io) 
+    - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site (github.io) 
     - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 
 **Answer Item 3** - [Friends](friends.html)
