@@ -41,31 +41,31 @@
 *Requirement*
 
 1.  ให้ผู้เรียนคิดโปรเจคเดี่ยวที่เป็น Web Application โดยมี Backend เป็น ExpressJS และ Frontend เป็น React-Redux ส่วน Database ให้เป็น MySQL และใช้ Sequelize เป็น ORM โดยจะต้องใช้ความรู้ตามนี้เป็นอย่างน้อย
--   ExpressJS
-    -   CORS
-    -   Passport
-    -   APIs
--   React
-    -   Ant Design
-    -   Axios
-    -   Component Design
--   Redux
--   Security
-    -   Json Web Token
-    -   Authentication
-    -   Authorization / User roles
-    -   Bcrypt
--   Sequelize
--   Data Validation
--   CRUD
--   Test Driven Development (Optional)
+    -   ExpressJS
+        -   CORS
+        -   Passport
+        -   APIs
+    -   React
+        -   Ant Design
+        -   Axios
+        -   Component Design
+    -   Redux
+    -   Security
+        -   Json Web Token
+        -   Authentication
+        -   Authorization / User roles
+        -   Bcrypt
+    -   Sequelize
+    -   Data Validation
+    -   CRUD
+    -   Test Driven Development (Optional)
 
 2.  ขั้นตอนการลงมือทำ
--   ออกแบบ wireframes ใน Figma
--   ออกแบบ Database
--   เขียน Model ใน Sequelize Type ORM
--   เขียน ExpressJS
--   เขียน React-Redux
+    -   ออกแบบ wireframes ใน Figma
+    -   ออกแบบ Database
+    -   เขียน Model ใน Sequelize Type ORM
+    -   เขียน ExpressJS
+    -   เขียน React-Redux
 
     **หมายเหตุ ทุกโปรเจคจะต้องขออนุมัติจากอาจารย์ผู้สอนหรือว่าผู้ช่วยสอนก่อนลงมือทำทุกโปเรเจค**
 
