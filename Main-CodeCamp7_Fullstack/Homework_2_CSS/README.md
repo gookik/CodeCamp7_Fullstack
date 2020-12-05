@@ -10,6 +10,8 @@
 
     1.4 combinator มีกี่แบบอะไรบ้าง
 
+    ![image](HWCSS1.png)
+
 ---
 
 2.  Slide 7 (review CSS)
