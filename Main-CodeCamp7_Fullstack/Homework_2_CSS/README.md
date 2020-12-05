@@ -14,6 +14,56 @@
 
 **Answer Item 1** - [Link](1review.html)
 
+    1.1 For example of CSS Syntax
+
+        `p {
+
+            color: red;
+
+            text-align: center;
+
+        }`
+
+    1.2 For example of CSS Writing
+
+        1.2.1 Inline CSS
+
+            `<h1 style="color:blue;">A Blue Heading</h1>`
+
+            `<p style="color:red;">A red paragraph.</p>`
+
+        1.2.2 Internal CSS
+
+            `<!DOCTYPE html>`
+
+            `<html>`
+
+            `<head>`
+
+            `<style>`
+
+            `body {background-color: powderblue;}`
+
+            `h1   {color: blue;}`
+
+            `p    {color: red;}`
+
+            `</style>`
+
+            `</head>`
+
+            `<body>`
+
+
+            `<h1>This is a heading</h1>`
+
+            `<p>This is a paragraph.</p>`
+
+
+            `</body>`
+            
+            `</html>`
+
 ---
 
 2.  Slide 7 (review CSS)
