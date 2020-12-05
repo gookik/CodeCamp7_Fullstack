@@ -12,7 +12,7 @@
 
     ![image](HWCSS1.png)
 
-    _**Answer Item 1** - [Link](1review.html)_
+**Answer Item 1** - [Link](1review.html)
 
 ---
 
