@@ -10,7 +10,7 @@
 
     1.4 combinator มีกี่แบบอะไรบ้าง
 
-![image](HWCSS1.png)
+    ![image](HWCSS1.png)
 
 ---
 
@@ -22,13 +22,13 @@
     
     2.3 value unit มีกี่ประเภทอะไรบ้างแต่ละ ประเภทคืออะไร
 
-![image](HWCSS2.png)
+    ![image](HWCSS2.png)
 
 ---
 
 3.  slide 10 ให้สร้างตารางตามรูปด้านล่าง
 
-![slide10](slide10.jpg)
+    ![slide10](slide10.jpg)
 
 ---
 
@@ -46,13 +46,13 @@
         
     4.5 z-index คืออะไรใช้อย่างไร
 
-![image](HWCSS4.png)
+    ![image](HWCSS4.png)
 
 ---
 
 5.  slide 17 ให้ทำตามหน้าเว็นนี้
 
-[Link to Item 5 example - Nike website](https://www.nike.com/th/men?cp=62130418954_search_%7Cth%7CCore%2BBrand%2B-%2BGN%2B-%2BPure%2B-%2BXCategory%2B-%2BNike%2BThailand%2B-%2BTM%2B-%2BGeneral%2B-%2BMens%2BLP%2B-%2BEN_TH%2B-%2BExact%7CGOOGLE%7Cnike&gclid=EAIaIQobChMIj73I0p6-5wIVzBErCh1nGgUNEAAYASAAEgKYlPD_BwE&gclsrc=aw.ds)
+    [Link to Item 5 example - Nike website](https://www.nike.com/th/men?cp=62130418954_search_%7Cth%7CCore%2BBrand%2B-%2BGN%2B-%2BPure%2B-%2BXCategory%2B-%2BNike%2BThailand%2B-%2BTM%2B-%2BGeneral%2B-%2BMens%2BLP%2B-%2BEN_TH%2B-%2BExact%7CGOOGLE%7Cnike&gclid=EAIaIQobChMIj73I0p6-5wIVzBErCh1nGgUNEAAYASAAEgKYlPD_BwE&gclsrc=aw.ds)
 
 ---
 
@@ -72,7 +72,7 @@
 
 7.  slide 35 ให้ทำหน้า responsive page ตามตัวอย่างเว็บนี้
 
-[Link to Item 7 example - Pimclick website](https://www.pimclick.com/co-digital-agency-bangntactkok/)
+    [Link to Item 7 example - Pimclick website](https://www.pimclick.com/co-digital-agency-bangntactkok/)
 
 ---
 
@@ -128,6 +128,6 @@
 
 11. slide 35 ทำ Responsive page เป็น bootstrap
 
-[Link to Item 11 example - Pimclick website](https://www.pimclick.com/contact-digital-agency-bangkok/)
+    [Link to Item 11 example - Pimclick website](https://www.pimclick.com/contact-digital-agency-bangkok/)
 
 
