@@ -10,7 +10,7 @@
 
     1.4 combinator มีกี่แบบอะไรบ้าง
 
-    ![image](HWCSS1.png)
+![image](HWCSS1.png)
 
 ---
 
@@ -21,6 +21,8 @@
     2.2 property ที่สอนใน precamp มีกี่กลุ่มอะไรบ้าง
     
     2.3 value unit มีกี่ประเภทอะไรบ้างแต่ละ ประเภทคืออะไร
+
+![image](HWCSS2.png)
 
 ---
 
@@ -43,6 +45,8 @@
     4.4 position คืออะไร และ อะไรบ้าง
         
     4.5 z-index คืออะไรใช้อย่างไร
+
+![image](HWCSS4.png)
 
 ---
 
