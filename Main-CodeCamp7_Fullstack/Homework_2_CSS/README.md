@@ -15,47 +15,116 @@
 **Answer Item 1** - [Link](1review.html)
 
     1.1 For example of CSS Syntax
+
         p {
             color: red;
             text-align: center;
         }
 
     1.2 For example of CSS Writing
-        1.2.1 Inline CSS
+
+        1.2.1   Inline CSS
+
             <h1 style="color:blue;">A Blue Heading</h1>
+
             <p style="color:red;">A red paragraph.</p>
 
-        1.2.2 Internal CSS
+        1.2.2   Internal CSS
 
-            `<!DOCTYPE html>`
+            <!DOCTYPE html>
+            <html>
+            <head>
+            <style>
+            body {background-color: powderblue;}
+            h1   {color: blue;}
+            p    {color: red;}
+            </style>
+            </head>
+            <body>
 
-            `<html>`
+            <h1>This is a heading</h1>
+            <p>This is a paragraph.</p>
 
-            `<head>`
+            </body>
+            </html>
 
-            `<style>`
+        1.2.3 External CSS
 
-            `body {background-color: powderblue;}`
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <link rel="stylesheet" href="styles.css">
+            </head>
+            <body>
 
-            `h1   {color: blue;}`
+            <h1>This is a heading</h1>
+            <p>This is a paragraph.</p>
 
-            `p    {color: red;}`
+            </body>
+            </html>
 
-            `</style>`
+    1.3 Selector Example Case
 
-            `</head>`
+        1.3.1   The CSS element Selector
+            
+            p {
+                text-align: center;
+                color: red;
+            }
 
-            `<body>`
+        1.3.2   The CSS id Selector
 
+            #para1 {
+                text-align: center;
+                color: red;
+            }
 
-            `<h1>This is a heading</h1>`
+        1.3.3   The CSS class Selector
 
-            `<p>This is a paragraph.</p>`
+            .center {
+                text-align: center;
+                color: red;
+            }
 
+        1.3.4   The CSS Universal Selector
 
-            `</body>`
+            * {
+                text-align: center;
+                color: blue;
+            }
 
-            `</html>`
+        1.3.5   The CSS Grouping Selector
+
+            h1, h2, p {
+                text-align: center;
+                color: red;
+            }
+
+    1.4 Combinator Example
+
+        1.4.1   Descendant Selector
+
+            div p {
+                background-color: yellow;
+            }
+
+        1.4.2   Child Selector
+
+            div > p {
+                background-color: yellow;
+            }
+
+        1.4.3   Adjacent Sibling Selector
+
+            div + p {
+                background-color: yellow;
+            }
+
+        1.4.4   General Sibling Selector
+
+            div ~ p {
+                background-color: yellow;
+            }
 
 ---
 
