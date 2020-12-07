@@ -138,21 +138,7 @@
 
     ![image](HWCSS2.png)
 
-**Answer Item 2**
-
-    2.1 Property คือ คุณสมบัติ
-        Value คือ ค่าที่กำหนด
-
-    2.2 Property ที่สอนใน Pre-Camp มี 5 กลุ่ม
-        -   Property for content: color , size , font , text, list-style-type, Height, Width, background
-        -   Property for border : border, table
-        -   Property for padding : padding (top right buttom left)
-        -   Property for margin : margin (top right buttom left)
-        -   Property for element : display, Height, Width, Position, Float, Align, Flex, Grid
-
-    2.3 Value unit มี 2 ประเภท คือ
-        -   Absolute lengths
-        -   relative lengths
+**Answer Item 2** - [Link](2review.html)
 
 ---
 
