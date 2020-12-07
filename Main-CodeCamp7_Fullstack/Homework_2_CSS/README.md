@@ -138,6 +138,13 @@
 
     ![image](HWCSS2.png)
 
+**Answer Item 2**
+    2.1 Property คือ คุณสมบัติ
+        Value คือ ค่าที่กำหนด
+
+    2.2 Property ที่สอนใน Pre-Camp มี 5 กลุ่ม
+        -   
+
 ---
 
 3.  slide 10 ให้สร้างตารางตามรูปด้านล่าง
