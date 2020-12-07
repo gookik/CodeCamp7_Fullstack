@@ -150,7 +150,9 @@
         -   Property for margin : margin (top right buttom left)
         -   Property for element : display, Height, Width, Position, Float, Align, Flex, Grid
 
-    2.3 
+    2.3 Value unit มี 2 ประเภท คือ
+        -   Absolute lenghts
+        -   relative lenghts
 
 ---
 
